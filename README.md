@@ -37,7 +37,7 @@ The Transport Management System is a C++ application designed to facilitate the 
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/abawan7/ride-management-system.git
+   git clone https://github.com/ifraaa/transport-management-system
    ```
 
 2. **Compilation**: Make sure a C++ compiler is installed. Compile using:
